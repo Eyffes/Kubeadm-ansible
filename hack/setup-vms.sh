@@ -3,6 +3,7 @@
 # Program: Initial vagrant.
 # History: 2017/1/16 Kyle.b Release
 
+#It's only for vagrant fadili afrah
 
 function set_hosts() {
 cat <<EOF > ~/hosts
